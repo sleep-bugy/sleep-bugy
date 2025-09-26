@@ -14,8 +14,6 @@ I'm a developer passionate about the world of the  Android Open Source Project (
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
 </div>
 
-<img align="right" height="23" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p6MGIyZG80cTlyM2RvOHdqaDM1NTRraWt6bThrdWgwdXFjb2kyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dcLFNKRUKvte/giphy.gif"  />
-
 ###
 
 # 💻 Tech Stack:
