@@ -1,7 +1,7 @@
+# 💫 About Me:
 <img src="https://raw.githubusercontent.com/sleep-bugy/sleep-bugy/output/snake.svg" alt="Snake animation" />
 
 ###
-# 💫 About Me:
 I'm a developer passionate about the world of the  Android Open Source Project (AOSP) and system customization. I dedicate my time to developing SleepOS, a custom ROM focused on stability, performance, and a clean user experience.<br><br>- 🔭 I’m currently the lead developer of SleepOS.<br>- 🌱 I’m constantly diving deep into Android internals, kernels, and system optimization.<br>- 💬 Ask me about anything related to AOSP, Custom ROMs, or Android in general.<br>- 🎮 Outside of coding, I'm an active player of Mobile Legends and Call of Duty: Mobile. Let's play!<br>
 
 
