@@ -2,6 +2,12 @@
 <img src="https://raw.githubusercontent.com/sleep-bugy/sleep-bugy/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p6MGIyZG80cTlyM2RvOHdqaDM1NTRraWt6bThrdWgwdXFjb2kyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dcLFNKRUKvte/giphy.gif"  />
+</div>
+
+###
 I'm a developer passionate about the world of the  Android Open Source Project (AOSP) and system customization. I dedicate my time to developing SleepOS, a custom ROM focused on stability, performance, and a clean user experience.<br><br>- 🔭 I’m currently the lead developer of SleepOS.<br>- 🌱 I’m constantly diving deep into Android internals, kernels, and system optimization.<br>- 💬 Ask me about anything related to AOSP, Custom ROMs, or Android in general.<br>- 🎮 Outside of coding, I'm an active player of Mobile Legends and Call of Duty: Mobile. Let's play!<br>
 
 
