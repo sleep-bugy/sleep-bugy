@@ -12,14 +12,8 @@ I'm a developer passionate about the world of the  Android Open Source Project (
 ![](https://nirzak-streak-stats.vercel.app/?user=sleep-bugy&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sleep-bugy&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sleep-bugy&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sleep-bugy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sleep-bugy&icon=5&color=12)](https://visitcount.itsvg.in)
