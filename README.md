@@ -1,12 +1,4 @@
 # 💫 About Me:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sleep-bugy/sleep-bugy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sleep-bugy/sleep-bugy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sleep-bugy/sleep-bugy/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 I'm a developer passionate about the world of the  Android Open Source Project (AOSP) and system customization. I dedicate my time to developing SleepOS, a custom ROM focused on stability, performance, and a clean user experience.<br><br>- 🔭 I’m currently the lead developer of SleepOS.<br>- 🌱 I’m constantly diving deep into Android internals, kernels, and system optimization.<br>- 💬 Ask me about anything related to AOSP, Custom ROMs, or Android in general.<br>- 🎮 Outside of coding, I'm an active player of Mobile Legends and Call of Duty Mobile. Let's play!<br>
 
 
@@ -22,7 +14,7 @@ I'm a developer passionate about the world of the  Android Open Source Project (
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
 </div>
 
-<img align="right" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p6MGIyZG80cTlyM2RvOHdqaDM1NTRraWt6bThrdWgwdXFjb2kyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dcLFNKRUKvte/giphy.gif"  />
+<img align="right" height="23" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p6MGIyZG80cTlyM2RvOHdqaDM1NTRraWt6bThrdWgwdXFjb2kyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1dcLFNKRUKvte/giphy.gif"  />
 
 ###
 
